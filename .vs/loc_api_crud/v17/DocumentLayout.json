@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\B.TECH\\sem-6\\adv .net\\loc_api_crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6461324-56B8-46BA-BBC4-64E66B30B0F0}|loc_api_crud.csproj|d:\\b.tech\\sem-6\\adv .net\\loc_api_crud\\data\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6461324-56B8-46BA-BBC4-64E66B30B0F0}|loc_api_crud.csproj|solutionrelative:data\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6461324-56B8-46BA-BBC4-64E66B30B0F0}|loc_api_crud.csproj|d:\\b.tech\\sem-6\\adv .net\\loc_api_crud\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6461324-56B8-46BA-BBC4-64E66B30B0F0}|loc_api_crud.csproj|solutionrelative:controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6461324-56B8-46BA-BBC4-64E66B30B0F0}|loc_api_crud.csproj|d:\\b.tech\\sem-6\\adv .net\\loc_api_crud\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6461324-56B8-46BA-BBC4-64E66B30B0F0}|loc_api_crud.csproj|solutionrelative:controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6461324-56B8-46BA-BBC4-64E66B30B0F0}|loc_api_crud.csproj|d:\\b.tech\\sem-6\\adv .net\\loc_api_crud\\data\\staterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6461324-56B8-46BA-BBC4-64E66B30B0F0}|loc_api_crud.csproj|solutionrelative:data\\staterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6461324-56B8-46BA-BBC4-64E66B30B0F0}|loc_api_crud.csproj|d:\\b.tech\\sem-6\\adv .net\\loc_api_crud\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6461324-56B8-46BA-BBC4-64E66B30B0F0}|loc_api_crud.csproj|solutionrelative:controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6461324-56B8-46BA-BBC4-64E66B30B0F0}|loc_api_crud.csproj|d:\\b.tech\\sem-6\\adv .net\\loc_api_crud\\data\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6461324-56B8-46BA-BBC4-64E66B30B0F0}|loc_api_crud.csproj|solutionrelative:data\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6461324-56B8-46BA-BBC4-64E66B30B0F0}|loc_api_crud.csproj|d:\\b.tech\\sem-6\\adv .net\\loc_api_crud\\models\\citymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6461324-56B8-46BA-BBC4-64E66B30B0F0}|loc_api_crud.csproj|solutionrelative:models\\citymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6461324-56B8-46BA-BBC4-64E66B30B0F0}|loc_api_crud.csproj|d:\\b.tech\\sem-6\\adv .net\\loc_api_crud\\models\\statemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6461324-56B8-46BA-BBC4-64E66B30B0F0}|loc_api_crud.csproj|solutionrelative:models\\statemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6461324-56B8-46BA-BBC4-64E66B30B0F0}|loc_api_crud.csproj|d:\\b.tech\\sem-6\\adv .net\\loc_api_crud\\modelvalidator\\countryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6461324-56B8-46BA-BBC4-64E66B30B0F0}|loc_api_crud.csproj|solutionrelative:modelvalidator\\countryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 272,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StateRepository.cs",
+              "DocumentMoniker": "D:\\B.TECH\\sem-6\\adv .net\\loc_api_crud\\Data\\StateRepository.cs",
+              "RelativeDocumentMoniker": "Data\\StateRepository.cs",
+              "ToolTip": "D:\\B.TECH\\sem-6\\adv .net\\loc_api_crud\\Data\\StateRepository.cs",
+              "RelativeToolTip": "Data\\StateRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA6wFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:21:33.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "D:\\B.TECH\\sem-6\\adv .net\\loc_api_crud\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CountryController.cs",
+              "ToolTip": "D:\\B.TECH\\sem-6\\adv .net\\loc_api_crud\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "Controllers\\CountryController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwEkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:00:19.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StateController.cs",
+              "DocumentMoniker": "D:\\B.TECH\\sem-6\\adv .net\\loc_api_crud\\Controllers\\StateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StateController.cs",
+              "ToolTip": "D:\\B.TECH\\sem-6\\adv .net\\loc_api_crud\\Controllers\\StateController.cs",
+              "RelativeToolTip": "Controllers\\StateController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAuwFcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:30:33.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "D:\\B.TECH\\sem-6\\adv .net\\loc_api_crud\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CityController.cs",
+              "ToolTip": "D:\\B.TECH\\sem-6\\adv .net\\loc_api_crud\\Controllers\\CityController.cs",
+              "RelativeToolTip": "Controllers\\CityController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAA6wGAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:39:28.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "D:\\B.TECH\\sem-6\\adv .net\\loc_api_crud\\Data\\CityRepository.cs",
+              "RelativeDocumentMoniker": "Data\\CityRepository.cs",
+              "ToolTip": "D:\\B.TECH\\sem-6\\adv .net\\loc_api_crud\\Data\\CityRepository.cs",
+              "RelativeToolTip": "Data\\CityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:52:49.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountryRepository.cs",
+              "DocumentMoniker": "D:\\B.TECH\\sem-6\\adv .net\\loc_api_crud\\Data\\CountryRepository.cs",
+              "RelativeDocumentMoniker": "Data\\CountryRepository.cs",
+              "ToolTip": "D:\\B.TECH\\sem-6\\adv .net\\loc_api_crud\\Data\\CountryRepository.cs",
+              "RelativeToolTip": "Data\\CountryRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA2wHMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:34:30.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CityModel.cs",
+              "DocumentMoniker": "D:\\B.TECH\\sem-6\\adv .net\\loc_api_crud\\Models\\CityModel.cs",
+              "RelativeDocumentMoniker": "Models\\CityModel.cs",
+              "ToolTip": "D:\\B.TECH\\sem-6\\adv .net\\loc_api_crud\\Models\\CityModel.cs",
+              "RelativeToolTip": "Models\\CityModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:53:57.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StateModel.cs",
+              "DocumentMoniker": "D:\\B.TECH\\sem-6\\adv .net\\loc_api_crud\\Models\\StateModel.cs",
+              "RelativeDocumentMoniker": "Models\\StateModel.cs",
+              "ToolTip": "D:\\B.TECH\\sem-6\\adv .net\\loc_api_crud\\Models\\StateModel.cs",
+              "RelativeToolTip": "Models\\StateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:54:24.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CountryValidator.cs",
+              "DocumentMoniker": "D:\\B.TECH\\sem-6\\adv .net\\loc_api_crud\\ModelValidator\\CountryValidator.cs",
+              "RelativeDocumentMoniker": "ModelValidator\\CountryValidator.cs",
+              "ToolTip": "D:\\B.TECH\\sem-6\\adv .net\\loc_api_crud\\ModelValidator\\CountryValidator.cs",
+              "RelativeToolTip": "ModelValidator\\CountryValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T03:29:02.051Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 272,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
